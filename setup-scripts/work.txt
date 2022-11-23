@@ -1,0 +1,6 @@
+1. instantiated setup-scripts
+2. created config-development.js file
+3. added task-queues related code in file
+4. write a code to create those task queues
+5. used the SIDs provided by task queues to add the workflows in config file
+6. write the code to create workflows 
