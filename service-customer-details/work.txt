@@ -1,0 +1,4 @@
+1. instantiated twilio serverless functions
+2. created api functions in assets and made them private
+3. write functions to get token & added tests
+4. created a dummy function to return basic response to simulate a API
